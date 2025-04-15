@@ -1,0 +1,32 @@
+[
+  {
+    "id": "seoul-101",
+    "name": "한강 뷰 스튜디오",
+    "location": "서울, 마포구",
+    "price_per_night": 85000,
+    "rating": 4.8,
+    "available_from": "2025-05-20",
+    "available_to": "2025-07-01",
+    "image_url": "https://example.com/room1.jpg"
+  },
+  {
+    "id": "seoul-102",
+    "name": "이태원 감성 하우스",
+    "location": "서울, 용산구",
+    "price_per_night": 97000,
+    "rating": 4.6,
+    "available_from": "2025-06-01",
+    "available_to": "2025-06-15",
+    "image_url": "https://example.com/room2.jpg"
+  },
+  {
+    "id": "seoul-103",
+    "name": "강남 모던 원룸",
+    "location": "서울, 강남구",
+    "price_per_night": 99000,
+    "rating": 4.7,
+    "available_from": "2025-05-28",
+    "available_to": "2025-06-30",
+    "image_url": "https://example.com/room3.jpg"
+  }
+]
